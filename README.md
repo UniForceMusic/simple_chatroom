@@ -12,3 +12,6 @@ This project is a simple chatroom that you can send messages in anonymously.
 - The message gets stored in the database
 - The database automaticly gives it a message_id and a datetime
 - Every 100ms the webpage asks the database for the last 16 messages present in the database
+
+# TODO
+- Make a version with JSON
