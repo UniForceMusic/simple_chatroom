@@ -17,7 +17,7 @@
     if ($amountLines < 16) {
         $amountMsg = $amountLines;
     } else {
-        $amountLines = 16;
+        $amountMsg = 16;
     }
 
     // Convert each line to a div
