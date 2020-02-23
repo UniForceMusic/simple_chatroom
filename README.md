@@ -4,6 +4,7 @@ This project is a simple chatroom that you can send messages in anonymously.
 # How To Install
 - Install Xampp
 - Drop all files/folders in the htdocs folder
+- Create database named: chatroom
 - Import the database with the sql file via phpmyadmin
 - Go to localhost
 
